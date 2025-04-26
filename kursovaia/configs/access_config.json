@@ -1,0 +1,6 @@
+{
+  "director": ["index","auth_app", "handler_inf2","read_handler"],
+  "manager": ["index","auth_app", "db_work", "reports", "apply"],
+  "arendator" :["index","handler_read_for_ex1","read_handler_ex","handler_for_arended","auth_app", "basket", "handler_read_for_ex"],
+  "billboard_owner" : ["index","auth_app", "handler_read_for_ex", "read_handler_ex", "handler_for_private", "handler_for_addbil"]
+}
